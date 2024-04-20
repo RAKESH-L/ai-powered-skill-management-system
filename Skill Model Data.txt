@@ -1,0 +1,167 @@
+[
+  {
+    "word": "Java",
+    "entity_group": "TECHNICAL",
+    "Percentage": "16.13%"
+  },
+  {
+    "word": "Python",
+    "entity_group": "TECHNICAL",
+    "Percentage": "6.45%"
+  },
+  {
+    "word": "C",
+    "entity_group": "TECHNICAL",
+    "Percentage": "3.23%"
+  },
+  {
+    "word": "SQL",
+    "entity_group": "TECHNICAL",
+    "Percentage": "3.23%"
+  },
+  {
+    "word": "cloud",
+    "entity_group": "TECHNICAL",
+    "Percentage": "3.23%"
+  },
+  {
+    "word": "computing",
+    "entity_group": "TECHNICAL",
+    "Percentage": "3.23%"
+  },
+  {
+    "word": "MS SQL",
+    "entity_group": "TECHNICAL",
+    "Percentage": "3.23%"
+  },
+  {
+    "word": "Server",
+    "entity_group": "TECHNICAL",
+    "Percentage": "3.23%"
+  },
+  {
+    "word": "MySQL",
+    "entity_group": "TECHNICAL",
+    "Percentage": "6.45%"
+  },
+  {
+    "word": "Visual",
+    "entity_group": "TECHNOLOGY",
+    "Percentage": "16.67%"
+  },
+  {
+    "word": "Studio",
+    "entity_group": "TECHNOLOGY",
+    "Percentage": "16.67%"
+  },
+  {
+    "word": "healthcare",
+    "entity_group": "BUSINESS",
+    "Percentage": "50.00%"
+  },
+  {
+    "word": "learning",
+    "entity_group": "SOFT",
+    "Percentage": "33.33%"
+  },
+  {
+    "word": "Java Programming",
+    "entity_group": "TECHNOLOGY",
+    "Percentage": "16.67%"
+  },
+  {
+    "word": "Python Programming",
+    "entity_group": "TECHNOLOGY",
+    "Percentage": "16.67%"
+  },
+  {
+    "word": "finance healthcare portfolio",
+    "entity_group": "BUSINESS",
+    "Percentage": "50.00%"
+  },
+  {
+    "word": "BFS",
+    "entity_group": "TECHNICAL",
+    "Percentage": "3.23%"
+  },
+  {
+    "word": "Software",
+    "entity_group": "TECHNICAL",
+    "Percentage": "3.23%"
+  },
+  {
+    "word": "Learning",
+    "entity_group": "SOFT",
+    "Percentage": "33.33%"
+  },
+  {
+    "word": "Programming",
+    "entity_group": "TECHNICAL",
+    "Percentage": "3.23%"
+  },
+  {
+    "word": "Java Programming Python",
+    "entity_group": "TECHNOLOGY",
+    "Percentage": "16.67%"
+  },
+  {
+    "word": "Basic",
+    "entity_group": "TECHNICAL",
+    "Percentage": "3.23%"
+  },
+  {
+    "word": "Programming Python",
+    "entity_group": "TECHNOLOGY",
+    "Percentage": "16.67%"
+  },
+  {
+    "word": "GitHub",
+    "entity_group": "TECHNICAL",
+    "Percentage": "9.68%"
+  },
+  {
+    "word": "HTML",
+    "entity_group": "TECHNICAL",
+    "Percentage": "6.45%"
+  },
+  {
+    "word": "TypeScript",
+    "entity_group": "TECHNICAL",
+    "Percentage": "6.45%"
+  },
+  {
+    "word": "JavaScript",
+    "entity_group": "TECHNICAL",
+    "Percentage": "3.23%"
+  },
+  {
+    "word": "CSS",
+    "entity_group": "TECHNICAL",
+    "Percentage": "3.23%"
+  },
+  {
+    "word": "CSSra",
+    "entity_group": "TECHNICAL",
+    "Percentage": "3.23%"
+  },
+  {
+    "word": "Testing",
+    "entity_group": "TECHNICAL",
+    "Percentage": "3.23%"
+  },
+  {
+    "word": "business",
+    "entity_group": "SOFT",
+    "Percentage": "33.33%"
+  },
+  {
+    "word": "dms",
+    "entity_group": "TECHNICAL",
+    "Percentage": "3.23%"
+  }
+]
+Percentage and total count for each entity group:
+TECHNICAL: 73.81%, Total Count: 31
+TECHNOLOGY: 14.29%, Total Count: 6
+BUSINESS: 4.76%, Total Count: 2
+SOFT: 7.14%, Total Count: 3
