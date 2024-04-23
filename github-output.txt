@@ -1,0 +1,400 @@
+{
+    "user_details": {
+        "login": "RAKESH-L",
+        "id": 64641959,
+        "node_id": "MDQ6VXNlcjY0NjQxOTU5",
+        "avatar_url": "https://avatars.githubusercontent.com/u/64641959?v=4",
+        "blog": "",
+        "email": null,
+        "bio": null,
+        "public_repos": 31,
+        "public_gists": 0,
+        "followers": 6,
+        "following": 3,
+        "created_at": "2020-05-01T11:52:26Z",
+        "updated_at": "2024-04-09T16:58:27Z"
+    },
+    "languages_percentages": {
+        "HTML": "8.90%",
+        "Python": "0.79%",
+        "PHP": "0.21%",
+        "CSS": "5.21%",
+        "Java": "51.16%",
+        "C#": "11.21%",
+        "TypeScript": "21.38%",
+        "JavaScript": "1.13%"
+    },
+    "notebook_percentage": "10.00%",
+    "repositories": [
+        {
+            "name": "49_Runtime-wizards",
+            "languages": [
+                {
+                    "language": "HTML",
+                    "percentage": "78.41%"
+                },
+                {
+                    "language": "Python",
+                    "percentage": "12.81%"
+                },
+                {
+                    "language": "PHP",
+                    "percentage": "4.99%"
+                },
+                {
+                    "language": "CSS",
+                    "percentage": "3.79%"
+                }
+            ]
+        },
+        {
+            "name": "Appointment",
+            "languages": [
+                {
+                    "language": "Java",
+                    "percentage": "100.00%"
+                }
+            ]
+        },
+        {
+            "name": "AppointmentManagementSystem",
+            "languages": [
+                {
+                    "language": "Java",
+                    "percentage": "100.00%"
+                }
+            ]
+        },
+        {
+            "name": "AppointmentScheduling",
+            "languages": [
+                {
+                    "language": "Java",
+                    "percentage": "100.00%"
+                }
+            ]
+        },
+        {
+            "name": "awesome-termux-hacking",
+            "languages": []
+        },
+        {
+            "name": "BloodBank",
+            "languages": [
+                {
+                    "language": "C#",
+                    "percentage": "100.00%"
+                }
+            ]
+        },
+        {
+            "name": "datasciencecoursera",
+            "languages": []
+        },
+        {
+            "name": "demo",
+            "languages": [
+                {
+                    "language": "Java",
+                    "percentage": "100.00%"
+                }
+            ]
+        },
+        {
+            "name": "demos",
+            "languages": [
+                {
+                    "language": "Java",
+                    "percentage": "100.00%"
+                }
+            ]
+        },
+        {
+            "name": "Email_Bot",
+            "languages": [
+                {
+                    "language": "HTML",
+                    "percentage": "50.50%"
+                },
+                {
+                    "language": "Python",
+                    "percentage": "49.50%"
+                }
+            ]
+        },
+        {
+            "name": "EmployeeCMS",
+            "languages": [
+                {
+                    "language": "Java",
+                    "percentage": "63.03%"
+                },
+                {
+                    "language": "TypeScript",
+                    "percentage": "23.51%"
+                },
+                {
+                    "language": "HTML",
+                    "percentage": "10.88%"
+                },
+                {
+                    "language": "JavaScript",
+                    "percentage": "2.02%"
+                },
+                {
+                    "language": "CSS",
+                    "percentage": "0.56%"
+                }
+            ]
+        },
+        {
+            "name": "Flight-Management-System",
+            "languages": [
+                {
+                    "language": "TypeScript",
+                    "percentage": "41.39%"
+                },
+                {
+                    "language": "CSS",
+                    "percentage": "23.66%"
+                },
+                {
+                    "language": "Java",
+                    "percentage": "19.75%"
+                },
+                {
+                    "language": "HTML",
+                    "percentage": "12.67%"
+                },
+                {
+                    "language": "JavaScript",
+                    "percentage": "2.53%"
+                }
+            ]
+        },
+        {
+            "name": "flightManagement",
+            "languages": [
+                {
+                    "language": "TypeScript",
+                    "percentage": "52.40%"
+                },
+                {
+                    "language": "Java",
+                    "percentage": "25.75%"
+                },
+                {
+                    "language": "HTML",
+                    "percentage": "14.92%"
+                },
+                {
+                    "language": "JavaScript",
+                    "percentage": "3.54%"
+                },
+                {
+                    "language": "CSS",
+                    "percentage": "3.39%"
+                }
+            ]
+        },
+        {
+            "name": "frontend-BFS",
+            "languages": []
+        },
+        {
+            "name": "hello-word",
+            "languages": []
+        },
+        {
+            "name": "Java-Core-Assignment",
+            "languages": [
+                {
+                    "language": "Java",
+                    "percentage": "100.00%"
+                }
+            ]
+        },
+        {
+            "name": "Leave-Management-Syatem",
+            "languages": [
+                {
+                    "language": "TypeScript",
+                    "percentage": "42.92%"
+                },
+                {
+                    "language": "CSS",
+                    "percentage": "26.70%"
+                },
+                {
+                    "language": "Java",
+                    "percentage": "16.53%"
+                },
+                {
+                    "language": "HTML",
+                    "percentage": "11.35%"
+                },
+                {
+                    "language": "JavaScript",
+                    "percentage": "2.50%"
+                }
+            ]
+        },
+        {
+            "name": "LeaveJpa",
+            "languages": [
+                {
+                    "language": "Java",
+                    "percentage": "100.00%"
+                }
+            ]
+        },
+        {
+            "name": "LeaveManagement",
+            "languages": [
+                {
+                    "language": "TypeScript",
+                    "percentage": "57.22%"
+                },
+                {
+                    "language": "Java",
+                    "percentage": "22.66%"
+                },
+                {
+                    "language": "HTML",
+                    "percentage": "16.26%"
+                },
+                {
+                    "language": "JavaScript",
+                    "percentage": "3.61%"
+                },
+                {
+                    "language": "CSS",
+                    "percentage": "0.24%"
+                }
+            ]
+        },
+        {
+            "name": "Library-Management-System",
+            "languages": [
+                {
+                    "language": "TypeScript",
+                    "percentage": "49.01%"
+                },
+                {
+                    "language": "CSS",
+                    "percentage": "22.32%"
+                },
+                {
+                    "language": "Java",
+                    "percentage": "16.38%"
+                },
+                {
+                    "language": "HTML",
+                    "percentage": "8.81%"
+                },
+                {
+                    "language": "JavaScript",
+                    "percentage": "3.48%"
+                }
+            ]
+        },
+        {
+            "name": "LibraryManagement",
+            "languages": [
+                {
+                    "language": "TypeScript",
+                    "percentage": "62.59%"
+                },
+                {
+                    "language": "Java",
+                    "percentage": "20.92%"
+                },
+                {
+                    "language": "HTML",
+                    "percentage": "11.26%"
+                },
+                {
+                    "language": "JavaScript",
+                    "percentage": "4.45%"
+                },
+                {
+                    "language": "CSS",
+                    "percentage": "0.79%"
+                }
+            ]
+        },
+        {
+            "name": "MVCProductAssignment80631",
+            "languages": [
+                {
+                    "language": "Java",
+                    "percentage": "100.00%"
+                }
+            ]
+        },
+        {
+            "name": "MyBootApp",
+            "languages": [
+                {
+                    "language": "Java",
+                    "percentage": "58.89%"
+                },
+                {
+                    "language": "TypeScript",
+                    "percentage": "33.97%"
+                },
+                {
+                    "language": "HTML",
+                    "percentage": "5.70%"
+                },
+                {
+                    "language": "CSS",
+                    "percentage": "1.44%"
+                }
+            ]
+        },
+        {
+            "name": "ProductsJDBC",
+            "languages": [
+                {
+                    "language": "Java",
+                    "percentage": "100.00%"
+                }
+            ]
+        },
+        {
+            "name": "SpringBoot",
+            "languages": [
+                {
+                    "language": "TypeScript",
+                    "percentage": "54.18%"
+                },
+                {
+                    "language": "Java",
+                    "percentage": "25.96%"
+                },
+                {
+                    "language": "CSS",
+                    "percentage": "11.86%"
+                },
+                {
+                    "language": "HTML",
+                    "percentage": "8.00%"
+                }
+            ]
+        },
+        {
+            "name": "TEMP",
+            "languages": [
+                {
+                    "language": "Java",
+                    "percentage": "100.00%"
+                }
+            ]
+        },
+        {
+            "name": "testing",
+            "languages": []
+        }
+    ]
+}
