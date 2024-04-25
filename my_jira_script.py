@@ -12,7 +12,7 @@ def get_custom_field_id(jira, field_name):
 
 def get_assigned_tasks():
     # Connect to Jira instance
-    jira = JIRA(server='https://rakeshlokesh2880.atlassian.net/', basic_auth=('rakeshlokesh2880@gmail.com', 'ATATT3xFfGF07Puatt46vE1-Ge0CRuIi6ksVyVrIBq3EkZdpwGUE6b0m749k19IwcfJG0d0XugOLNWQIUVn8HrrMcvXOk4_H0aisExV4ZCDswzFLUM-ulBbxRlPZdmLfnjpBBETPnJg_jBq0UmNk3C2zh4Ok4qUpFVcraAy7QyStiCMX7AoA870=FC14A710'))
+    jira = JIRA(server='https://rakeshlokesh2880.atlassian.net/', basic_auth=('rakeshlokesh2880@gmail.com', 'ATATT3xFfGF07Puatt46vE1-Ge0CRuIi6ksVyVrIBq3EkZdpwGUE6b0m749k19IwcfJG0d0XugOLNWQIUVn8HrrMcvXOk4_H0aisExV4ZCDswzFLUM-ulBbxRlPZdmLfnjpBBETPnJg_jBq0UmNk3C2zh4Ok4qUpFVcraAy7QyStiCMX7AoA870=FC14A710rakesh1'))
 
     # Define the person to filter issues for
     assigned_person = 'rakeshlokesh2880@gmail.com'
