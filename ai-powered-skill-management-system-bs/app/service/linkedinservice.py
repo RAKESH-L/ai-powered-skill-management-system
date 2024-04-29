@@ -3,8 +3,8 @@ import mysql.connector
 from config import MYSQL_USERNAME, MYSQL_PASSWORD, MYSQL_HOST, MYSQL_PORT, MYSQL_DATABASE_NAME
 
 class LinkedInService:
-    client_id = "86w6mbyl06q7ws"
-    client_secret = "vS788knGlMFu5Xl0"
+    client_id = "your client id"
+    client_secret = "your secret code"
     redirect_uri = "http://localhost:5000/callback"
     auth_url = "https://www.linkedin.com/oauth/v2/authorization"
     token_url = "https://www.linkedin.com/oauth/v2/accessToken"
