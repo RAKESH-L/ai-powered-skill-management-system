@@ -1,16 +1,9 @@
 from flask import Blueprint, request, jsonify
 from app.service.chatbotservice import generate_response_text, store_summary_data, generate_audio
-# import io
-# import time
-# import re
-# import base64
-# import mysql.connector 
+
 from mysql.connector import Error
 from flask import Flask, jsonify, request
 from flask_cors import CORS
-# from azure.cognitiveservices.speech import SpeechConfig, AudioConfig, SpeechSynthesizer
-# from openai import AzureOpenAI
-# from config import YOUR_SPEECH_KEY, YOUR_SPEECH_REGION, YOUR_OPENAI_API_KEY, YOUR_OPENAI_ENDPOINT, YOUR_SYSTEM_MESSAGE, MYSQL_HOST, MYSQL_USERNAME, MYSQL_PASSWORD, MYSQL_DATABASE_NAME
 
 
 # Create a Blueprint for the skill dataset controller
